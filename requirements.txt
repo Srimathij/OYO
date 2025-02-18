@@ -10,7 +10,6 @@ streamlit-float
 python-dotenv
 groq
 librosa
-soundfile
 langdetect
 elevenlabs
 torch
