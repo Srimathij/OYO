@@ -8,3 +8,4 @@ librosa
 langdetect
 elevenlabs
 torch
+pip
