@@ -1,9 +1,10 @@
-SpeechRecognition
-audio-recorder-streamlit
-streamlit-float
-dotenv
+streamlit
+speech_recognition
+gtts
+audio_recorder_streamlit
+streamlit_float
+python-dotenv
 groq
 librosa
+soundfile
 langdetect
-elevenlabs
-torch
