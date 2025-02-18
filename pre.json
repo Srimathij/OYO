@@ -1,0 +1,348 @@
+"region": "Unlimited Plans for Tamil Nadu (except Chennai)",
+"plans": [
+  {
+    "price": 859,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 84,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 349,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 579,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 56,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 299,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB/Day",
+    "validity": 28,
+    "additional_benefits": []
+  },
+  {
+    "price": 249,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB/Day",
+    "validity": 24,
+    "additional_benefits": []
+  },
+  {
+    "price": 1999,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "24GB",
+    "validity": 365,
+    "additional_benefits": []
+  },
+  {
+    "price": 509,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "6GB",
+    "validity": 84,
+    "additional_benefits": []
+  },
+  {
+    "price": 3799,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 365,
+    "additional_benefits": ["Amazon Prime subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 3699,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 365,
+    "additional_benefits": ["Hotstar Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 3599,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 365,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 3499,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 365,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 1749,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 180,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 539,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "4GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 795,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "3GB/Day",
+    "validity": 56,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 365,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 379,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 30,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 979,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 84,
+    "additional_benefits": ["ViMTV Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 649,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 56,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 719,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB/Day",
+    "validity": 72,
+    "additional_benefits": []
+  },
+  {
+    "price": 449,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "3GB/Day",
+    "validity": 28,
+    "additional_benefits": ["ViMTV Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 799,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 77,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 666,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1.5GB/Day",
+    "validity": 64,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 199,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB",
+    "validity": 28,
+    "additional_benefits": []
+  },
+  {
+    "price": 369,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "4GB",
+    "validity": 56,
+    "additional_benefits": []
+  },
+  {
+    "price": 155,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB",
+    "validity": 20,
+    "additional_benefits": []
+  },
+  {
+    "price": 179,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB",
+    "validity": 24,
+    "additional_benefits": []
+  },
+  {
+    "price": 189,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB",
+    "validity": 26,
+    "additional_benefits": []
+  },
+  {
+    "price": 1198,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 70,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 1049,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "12GB",
+    "validity": 180,
+    "additional_benefits": []
+  },
+  {
+    "price": 218,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "3GB",
+    "validity": 30,
+    "additional_benefits": []
+  },
+  {
+    "price": 1599,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2.5GB/Day",
+    "validity": 84,
+    "additional_benefits": ["Netflix (TV + Mobile)", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 469,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2.5GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Hotstar Subscription"]
+  },
+  {
+    "price": 996,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 84,
+    "additional_benefits": ["Amazon Prime subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 997,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 84,
+    "additional_benefits": ["Sun NXT subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 994,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 84,
+    "additional_benefits": ["Hotstar Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 409,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2.5GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Binge All Night", "Weekend data rollover", "Data delights"]
+  },
+  {
+    "price": 998,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 84,
+    "additional_benefits": ["SonyLiv Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 407,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 28,
+    "additional_benefits": ["Sun NXT subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 345,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "25GB",
+    "validity": 30,
+    "additional_benefits": []
+  },
+  {
+    "price": 408,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "2GB/Day",
+    "validity": 28,
+    "additional_benefits": ["SonyLiv Subscription", "Binge All Night", "Weekend data rollover"]
+  },
+  {
+    "price": 479,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "1GB/Day",
+    "validity": 48,
+    "additional_benefits": []
+  },
+  {
+    "price": 625,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "50GB",
+    "validity": 60,
+    "additional_benefits": []
+  },
+  {
+    "price": 98,
+    "type": "Prepaid",
+    "calls": "Truly Unlimited",
+    "data": "200MB",
+    "validity": 10,
+    "additional_benefits": []
+  }
+]
+}

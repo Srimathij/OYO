@@ -1,0 +1,11 @@
+[theme]
+
+primaryColor = "#0066CC"
+backgroundColor = "#91542f"
+secondaryBackgroundColor = "#E0E0E0"
+textColor = "#333333"
+font = "sans serif"
+
+
+streamlit run app.py --theme.base="light" --theme.primaryColor="#0066CC" --theme.backgroundColor="#ed9251" --theme.secondaryBackgroundColor="#F0F2F6" --theme.textColor="#262730" --theme.font="sans serif"
+
