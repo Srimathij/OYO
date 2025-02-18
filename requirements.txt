@@ -1,10 +1,5 @@
-streamlit
-os
-uuid
-base64
 json
-speechrecognition
-gTTS
+SpeechRecognition
 audio-recorder-streamlit
 streamlit-float
 python-dotenv
