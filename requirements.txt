@@ -7,6 +7,8 @@ speech_recognition
 gtts
 audio_recorder_streamlit
 streamlit_float
+python -m pip install --upgrade pip
+
 
 # Utilities
 python-dotenv
