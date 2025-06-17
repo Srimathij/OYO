@@ -8,6 +8,7 @@ audio_recorder_streamlit
 streamlit_float
 python-dotenv
 pip>=25.1.1
+ffmpeg
 groq
 librosa
 soundfile
