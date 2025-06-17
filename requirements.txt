@@ -1,10 +1,24 @@
+# ⚠️ Recommended: Upgrade pip before installation
+# Run: pip install --upgrade pip
+
+# Core Streamlit & Audio Packages
 streamlit
 speech_recognition
 gtts
 audio_recorder_streamlit
 streamlit_float
+
+# Utilities
 python-dotenv
+langdetect
+
+# AI & Audio Processing
 groq
 librosa
 soundfile
-langdetect
+
+# Text Rendering & Syntax Highlighting
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.1
+rich==14.0.0
