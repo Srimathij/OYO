@@ -1,3 +1,6 @@
+# It's recommended to upgrade pip before installing:
+# Run: pip install --upgrade pip
+
 streamlit
 speech_recognition
 gtts
