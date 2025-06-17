@@ -1,8 +1,3 @@
-# requirements.txt
-
-# Recommendation: upgrade pip manually before installing
-# pip install --upgrade pip
-
 streamlit
 speech_recognition
 gtts
@@ -13,6 +8,8 @@ groq
 librosa
 soundfile
 langdetect
+torch
+elevenlabs
 markdown-it-py==3.0.0
 mdurl==0.1.2
 pygments==2.19.1
